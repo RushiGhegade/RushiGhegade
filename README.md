@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning Flutter development **Frameworks**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/RushiGhegade](https://github.com/RushiGhegade)
 
