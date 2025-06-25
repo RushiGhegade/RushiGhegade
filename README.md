@@ -13,10 +13,10 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend (Mobile):** Flutter, Dart, Firebase, REST APIs, UI/UX Design
-- **Backend:** Java, Spring Boot (basics), MySQL, Firebase Firestore
+- **Frontend (Mobile):** Flutter, Dart, Firebase, REST APIs
+- **Backend:** Java, Spring Boot (basics), MySQL, Firebase 
 - **Tools:** Git, GitHub, Android Studio, VS Code, Postman, Figma
-- **Others:** BLoC, Provider, MVC Architecture, OOP Concepts, Threading, Exception Handling
+- **Others:** BLoC,FCM,Provider, MVC Architecture, OOP Concepts, Threading, Exception Handling
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
