@@ -5,9 +5,18 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/RushiGhegade](https://github.com/RushiGhegade)
+🎯 Passionate about building **modern, scalable mobile applications** using Flutter  
+☕ Experienced in writing **robust backend logic** and **efficient algorithms** using Java  
+💡 Constantly exploring new technologies and contributing to real-world projects
 
-- 📫 Connect With Me **https://www.instagram.com/rushi_ghegade888/**
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend (Mobile):** Flutter, Dart, Firebase, REST APIs, UI/UX Design
+- **Backend:** Java, Spring Boot (basics), MySQL, Firebase Firestore
+- **Tools:** Git, GitHub, Android Studio, VS Code, Postman, Figma
+- **Others:** BLoC, Provider, MVC Architecture, OOP Concepts, Threading, Exception Handling
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
